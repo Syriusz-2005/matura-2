@@ -1,0 +1,7 @@
+
+
+zad 4.1
+1004 palindromy
+
+zad 4.2
+197 niepustych rodzin palindromów

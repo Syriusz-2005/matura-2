@@ -1,0 +1,45 @@
+
+
+zad 5.1
+zachodniopomorskie:
+wieś 33
+miasto 27
+
+warmińsko-mazurskie:
+wieś 32
+miasto 23
+
+pomorskie:
+wieś 29
+miasto 38
+
+zad 5.2
+najmłodsza - 2022-08-06
+najstarsza - 1950-09-17
+
+zad 5.3
+85 osób
+
+zad 5.4
+XX wiek - 599 osób
+XXI wiek - 401 osób
+
+zad 5.5
+
+zad 5.6
+styczeń 89
+luty 100
+marzec 72
+kwiecień 100
+maj 57
+czerwiec 82
+lipiec 79
+sierpień 78
+wrzesień 95
+październik 83
+listopad 81
+grudzień 84
+
+
+zad 5.7
+5 błędnych cyfr kontrolnych
